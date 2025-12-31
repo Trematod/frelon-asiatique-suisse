@@ -1,5 +1,8 @@
 # frelon-asiatique-suisse
 Analyse du frelon asiatique (Vespa velutina) en Suisse
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
+[![sf](https://img.shields.io/badge/sf-spatial%20data-6A1B9A)](https://r-spatial.github.io/sf/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Ce projet analyse la répartition spatiale et temporelle du frelon asiatique (*Vespa velutina*) en Suisse à partir de données GBIF.
 
