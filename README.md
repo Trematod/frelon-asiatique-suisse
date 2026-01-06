@@ -40,7 +40,7 @@ Les données spatiales sont reprojetées en **EPSG:2056 (CH1903+)**.
 
 - Première observation en Suisse : **2017 (Jura)**
 - Forte augmentation des signalements depuis **2022**
-- En 2025, les observations sont concentrées dans certains cantons de l’ouest et du sud de la Suisse
+- En 2025, les observations sont concentrées dans certains cantons de l’ouest de la Suisse
 
 ---
 
