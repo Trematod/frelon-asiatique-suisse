@@ -10,6 +10,7 @@ Il comprend :
 - une analyse temporelle des observations
 - une cartographie statique des signalements
 - une carte interactive par canton (année 2025)
+- une carte intercative par canton par années
 
 ---
 
@@ -33,6 +34,8 @@ Les données spatiales sont reprojetées en **EPSG:2056 (CH1903+)**.
   - `plotly`
   - `viridisLite`
   - `tidyverse`
+  - `plotly`
+  - `leaflet`
 
 ---
 
